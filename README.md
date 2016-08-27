@@ -1,1 +1,1 @@
-# DataMiningCourse
+# Machine Learning
